@@ -11,6 +11,6 @@ Clase: Analisis y diseño de algoritmos
 - Trabajos de la materia
 
 # Proyectos!
-| Proyectos | 
-| ------ | 
-| COVID19 |
+| Proyectos | | Lenguaje |
+| ------ |  | ------ |
+| COVID19 | | Java |
