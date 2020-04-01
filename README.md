@@ -1,6 +1,6 @@
 # Repositorio Nicolas Caro 
 Estudiante de Ingenieria De Sistemas Universidad de San Buenaventura
-Clase: Analisi y diseño de algoritmos
+Clase: Analisis y diseño de algoritmos
 
 
 # Proyectos!
