@@ -14,3 +14,7 @@ Clase: Analisis y diseño de algoritmos
 | Proyectos |  Lenguaje |
 | ------ |   ------ |
 | COVID19 | Java |
+|Ejercicios Maraton|Java |
+|Ejercicios python | python|
+|Bitacora Ejercicios| word/java |
+|Bitacora python | word/ python|
