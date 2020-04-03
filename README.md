@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/NicolasCaro17/Analysis-and-desing-of-algorithms/blob/master/Dibujo%20sin%20t%C3%ADtulo.jpg) 
 
 # Repositorio Nicolas Caro 
 Estudiante de Ingenieria De Sistemas Universidad de San Buenaventura
