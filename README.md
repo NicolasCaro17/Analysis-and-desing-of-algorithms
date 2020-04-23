@@ -18,3 +18,4 @@ Clase: Analisis y diseño de algoritmos
 |Ejercicios python | python|
 |Bitacora Ejercicios| word/java |
 |Bitacora python | word/ python|
+Taller 4 | word/ java|
