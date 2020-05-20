@@ -135,7 +135,7 @@ public class Prueba {
 //      Venta c = new Venta(10, "25/08/2000", -90000000); 
 //      System.out.println(b.agregarV(c)); 
 //    }
-    @Test
+   @Test
     public void assest1A() {
         int id = 22;
         String producto = "Doritos";
@@ -156,7 +156,7 @@ public class Prueba {
         String producto = "Doritos";
         String fecha_vencimiento = "25/abril/2021";
         String marca = "Margarita";
-        int precio = -1500;
+        int precio = 1500;
         int cantindad = 500;
         Panaderia panaderia = new Panaderia(id, producto, fecha_vencimiento, marca, precio, cantindad);
         assert precio > 0 : "El Precio debe ser positivo";
@@ -171,7 +171,7 @@ public class Prueba {
         String fecha_vencimiento = "25/abril/2021";
         String marca = "Margarita";
         int precio = 15000;
-        int cantidad = 500;
+        int cantidad = -500;
         Panaderia panaderia = new Panaderia(id, producto, fecha_vencimiento, marca, precio, cantidad);
         assert cantidad > 0 : "La Cantidad no puede ser negativa";
 
@@ -274,15 +274,7 @@ public class Prueba {
 
     @Test
     public void assest2B() {
-        int id = 11 ;
-        String fecha = "20/02/2000";
-        int total = 50000;
-        Venta venta = new Venta(id, fecha, total);
-        int id2=12;
-        String fecha2 = "\"20/02/2000\"";
-        int total2 = 50000;
-        Venta venta2 = new Venta(id2, fecha2, total2);
-         assertEquals(venta,venta2);
+
     }
 
     @Test
@@ -381,9 +373,7 @@ public class Prueba {
         int total = 50000;
         Venta venta = new Venta(id, fecha, total);
         assertFalse(b.agregarV(venta));
-        
-    }
-    
+        }
     
     
     
